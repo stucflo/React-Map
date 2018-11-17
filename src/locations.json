@@ -1,0 +1,52 @@
+[
+    {
+        "name": "Beef a Roo",
+        "street": "6593 Lexus Drive",
+        "city": "Rockford",
+        "state": "Illinois",
+        "zip": "61108",
+        "url": "https://beefaroo.com/locations/",
+        "pos":{"lat":42.265770,"lng":-88.988100}
+    },
+
+    {
+        "name": "Fiesta Cancun",
+        "street": "631 Highgrove Pl",
+        "city": "Rockford",
+        "state": "Illinois",
+        "zip": "61108",
+        "url": "",
+        "pos":{"lat":42.263720,"lng":-88.981540}
+    },
+
+    {
+        "name": "Dos Reales",
+        "street": "6593 Lexus Drive",
+        "city": "Rockford",
+        "state": "Illinois",
+        "zip": "61108",
+        "url": "https://www.dosrealesrockford.com/",
+        "pos":{"lat":42.265820,"lng":-89.002450}
+    },
+
+    {
+        "name": "Waffle Shop",
+        "street": "6106 E Riverside Blvd",
+        "city": "Loves Park",
+        "state": "Illinois",
+        "zip": "61111",
+        "url": "",
+        "pos":{"lat":42.318990,"lng":-88.998400}
+    },
+
+    {
+        "name": "Portillo's",
+        "street": "6090 E State St",
+        "city": "Rockford",
+        "state": "Illinois",
+        "zip": "61108",
+        "url": "https://www.portillos.com/locations/rockford/",
+        "pos":{"lat":42.267100,"lng":-88.996870}
+    }
+
+]

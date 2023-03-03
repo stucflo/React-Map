@@ -9,7 +9,7 @@
     "@material-ui/core": "^3.3.2",
     "google-maps-react": "^2.0.2",
     "i": "^0.3.7",
-    "npm": "^6.4.1",
+    "npm": "^6.14.18",
     "react": "^16.6.0",
     "react-dom": "^16.6.0",
     "react-scripts": "5.0.1"
